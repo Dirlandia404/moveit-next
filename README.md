@@ -1,2 +1,2 @@
 # moveit-next
-https://moveit-next-virid-beta.vercel.app/
+https://moveit-next-dirlandia404.vercel.app/
